@@ -33,5 +33,5 @@ Multivalued attributes:
 
 ---
 
-## ER Diagram
+## ER Diagram (draw.io)
 <img width="1072" height="601" alt="University ER Diagrams drawio" src="https://github.com/user-attachments/assets/bc46370a-1948-4be1-bf8d-8af081e7ae96" />
