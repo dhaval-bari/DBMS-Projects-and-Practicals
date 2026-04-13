@@ -1,0 +1,19 @@
+-- ASSOCIATIVE ENTITY
+CREATE TABLE ADMISSION (
+    PatientID INT,
+    WardID INT,
+    AdmitDate DATE
+);
+
+-- WEAK ENTITY
+CREATE TABLE EMERGENCY_CONTACT (
+    PatientID INT,
+    ContactName VARCHAR(100),
+    PRIMARY KEY (PatientID, ContactName)
+);
+
+-- M:N RELATIONSHIP
+CREATE TABLE TREATMENT (
+    PatientID INT,
+    DoctorID INT
+);
