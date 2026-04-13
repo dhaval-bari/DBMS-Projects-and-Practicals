@@ -1,6 +1,7 @@
 # Zomato Database Project
 
-A relational database project simulating a food delivery platform like Zomato.
+## Description
+A relational database project simulating a food delivery platform like Zomato using ER diagrams and SQL.
 
 ---
 
@@ -8,6 +9,27 @@ A relational database project simulating a food delivery platform like Zomato.
 To design and implement a structured database system for managing restaurants, customers, and orders.
 
 ---
+
+## Features
+- User management
+- Restaurant & menu system
+- Order processing
+- Payment tracking
+- Reviews & ratings
+
+## Files
+- er-diagram.png → ER Diagram
+- schema.sql → Table creation
+- queries.sql → SQL queries
+
+## Database Concepts Used
+- ER Modeling
+- Normalization (up to 3NF)
+- Joins
+- Constraints (PK, FK)
+- Aggregate Functions (SUM, AVG, COUNT)
+- Subqueries
+- GROUP BY & HAVING
 
 ## Database Schema
 
@@ -19,21 +41,6 @@ To design and implement a structured database system for managing restaurants, c
 ### Relationships:
 - One Customer → Many Orders
 - One Restaurant → Many Orders
-
----
-
-## Concepts Used
-
-- Primary Keys & Foreign Keys
-- Joins (INNER JOIN)
-- Aggregate Functions (SUM, AVG, COUNT)
-- Subqueries
-- GROUP BY & HAVING
-
----
-
-## ER Diagram
-(Add your image here)
 
 ---
 
