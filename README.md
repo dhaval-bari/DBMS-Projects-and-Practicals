@@ -61,8 +61,6 @@ DBMS-Projects-and-Practicals/
 │
 ├── 10-Projects/
 │   ├── Zomato-Database/
-│   ├── Bookstore-System/
-│   └── Other-Projects/
 │
 └── README.md
 ```
