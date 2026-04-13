@@ -1,5 +1,4 @@
 # DBMS-Projects-and-Practicals
-A comprehensive collection of DBMS practicals, SQL queries, assignments, and projects covering database design, normalization, and real-world scenarios.
 
 Welcome to my **Database Management Systems (DBMS)** repository 🚀
 This repository is a complete collection of my **academic DBMS practicals, assignments, and projects covering database design, normalization, and real-world scenarios** developed during my postgraduate studies in **MMS (Financial Technology)**.
