@@ -1,4 +1,6 @@
-# SQL Basics
+# SQL Concepts
+
+This section covers Structured Query Language (SQL) concepts based on Unit 3 syllabus.
 
 This folder contains fundamental SQL operations:
 
@@ -7,5 +9,32 @@ This folder contains fundamental SQL operations:
 - Inserting data
 - Basic SELECT queries
 
-## Files
-- create_database.sql
+---
+
+## Topics Covered
+
+- DDL (CREATE, ALTER, DROP)
+- DML (INSERT, UPDATE, DELETE)
+- SELECT Queries
+- WHERE Clause
+- ORDER BY
+- GROUP BY & HAVING
+- Aggregate Functions
+- Joins (INNER, LEFT, RIGHT)
+- Subqueries
+- Constraints
+
+---
+
+## Purpose
+
+To demonstrate practical implementation of SQL concepts used in relational database management systems.
+
+---
+
+## Tools Used
+
+- MySQL Workbench
+- SQL
+
+---
