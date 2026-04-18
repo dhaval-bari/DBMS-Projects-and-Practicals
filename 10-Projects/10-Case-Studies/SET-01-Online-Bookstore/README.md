@@ -16,9 +16,10 @@ Database for managing books, authors, customers, and orders.
 
 ## Features
 - 25 SQL queries covering:
-  - Filtering
+  - Filtering (WHERE)
+  - Sorting (ORDER BY)
+  - Aggregation (COUNT, SUM, AVG)
   - Joins
-  - Aggregation
   - Subqueries
 
 ---
