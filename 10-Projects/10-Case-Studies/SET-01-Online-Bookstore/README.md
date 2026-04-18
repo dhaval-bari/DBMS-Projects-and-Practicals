@@ -28,7 +28,6 @@ Database for managing books, authors, customers, and orders.
 
 ---
 
-## 📄 SQL File
-👉 [View SQL](schema_and_queries.sql)
+## 📄 SQL File [View SQL](schema_and_queries.sql)
 
 ---
