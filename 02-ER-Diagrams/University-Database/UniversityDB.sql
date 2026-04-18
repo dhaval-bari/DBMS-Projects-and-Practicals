@@ -120,5 +120,3 @@ SELECT c.Title, COUNT(e.StudentID) AS TotalStudents
 FROM COURSE c
 LEFT JOIN ENROLLMENT e ON c.CourseCode = e.CourseCode
 GROUP BY c.CourseCode;
-
---
