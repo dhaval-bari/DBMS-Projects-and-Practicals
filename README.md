@@ -37,23 +37,40 @@ This repository covers core DBMS concepts including:
 DBMS-Projects-and-Practicals/
 │
 ├── 01-Introduction/
+│   ├── fundamentals.md/
 │   └── README.md
 │
 ├── 02-ER-Diagrams/
-│   ├── notes/
-│   └── diagrams/
+│   ├── University-Database/
+│   ├── Hospital-Database/
+│   ├── E-Commerce-Database/
+│   └── README.md/
 │
 ├── 03-Relational-Model/
+│   ├── ecommerce_mapping.sql
+│   ├── hospital_mapping.sql
+│   ├── university_mapping.sql
+│   ├── README.md/
 │
-├── 04-SQL-Practice/
+├── 04-SQL-Basics/
+README.md
+create_database.sql
+sql_concepts.sql
 │   ├── queries.sql
 │   └── joins.sql
 │
 ├── 05-Normalization/
+1NF_example.sql
+2NF_example.sql
+3NF_example.sql
+README.md
 │
 ├── 06-Transactions/
 │
 ├── 07-NoSQL/
+README.md
+create_database.sql
+sql_concepts.sql
 │
 ├── 08-Practice-Sets/
 │
@@ -61,6 +78,9 @@ DBMS-Projects-and-Practicals/
 │
 ├── 10-Projects/
 │   ├── Zomato-Database/
+│   ├── Zomato-Database/
+│   ├── Zomato-Database/
+│   ├── README.md
 │
 └── README.md
 ```
