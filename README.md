@@ -38,7 +38,7 @@ DBMS-Projects-and-Practicals/
 │
 ├── 01-Introduction/
 │   ├── fundamentals.md/
-│   └── README.md
+│   └── README.md/
 │
 ├── 02-ER-Diagrams/
 │   ├── University-Database/
@@ -50,39 +50,53 @@ DBMS-Projects-and-Practicals/
 │   ├── ecommerce_mapping.sql
 │   ├── hospital_mapping.sql
 │   ├── university_mapping.sql
-│   ├── README.md/
+│   └── README.md/
 │
-├── 04-SQL-Basics/
-README.md
-create_database.sql
-sql_concepts.sql
-│   ├── queries.sql
-│   └── joins.sql
+├── 04-Normalization/
+│   ├── 1NF_example.sql/
+│   ├── 2NF_example.sql/
+│   ├── 3NF_example.sql/
+│   ├── case_study_normalization.sql/
+│   └── README.md/
 │
-├── 05-Normalization/
-1NF_example.sql
-2NF_example.sql
-3NF_example.sql
-README.md
+├── 05-SQL-Basics/
+│   ├── create_database.sql/
+│   ├── sql_concepts.sql/
+│   └── README.md/
 │
-├── 06-Transactions/
+├── 06-SQL-Joins/
+│   ├── joins_practice.sql/
+│   └── README.md/
 │
-├── 07-NoSQL/
-README.md
-create_database.sql
-sql_concepts.sql
+├── 07-SQL-Advanced/
+│   ├── group_by_having.sql/
+│   ├── indexes.sql/
+│   ├── subqueries.sql/
+│   ├── views.sql/
+│   ├── window_functions.sql/
+│   └── README.md/
 │
-├── 08-Practice-Sets/
+├── 08-Transactions/
+│   ├── concepts.md/
+│   ├── isolation_levels.sql/
+│   ├── transactions.sql/
+│   ├── transactions_complete.sql/
+│   └── README.md/
 │
-├── 09-Assignments/
+├── 09-NoSQL/
+│   ├── Notes.md/
+│   ├── mongodb_basics.md/
+│   ├── mongodb_queries.js/
+│   ├── sql_vs_nosql.md/
+│   └── README.md/
 │
 ├── 10-Projects/
-│   ├── Zomato-Database/
-│   ├── Zomato-Database/
-│   ├── Zomato-Database/
-│   ├── README.md
+│   ├── 10-Case-Studies/
+│   ├── Banking-System/
+│   ├── Online-Bookstore-DB/
+│   └── README.md/
 │
-└── README.md
+└── README.md/
 ```
 
 ---
